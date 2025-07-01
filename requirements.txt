@@ -1,0 +1,4 @@
+ipdb
+numpy==1.26.4
+ffmpeg-python==0.2.0
+whisperx==3.2.0
